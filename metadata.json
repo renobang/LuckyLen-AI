@@ -1,0 +1,7 @@
+{
+  "name": "LuckyLens AI",
+  "description": "The smartest way to check your luck. Scan your lottery tickets instantly using advanced AI to find winning numbers and prize rankings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
